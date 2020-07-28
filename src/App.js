@@ -29,7 +29,7 @@ function App() {
         ignoreFirstVideo
         category={dadosIniciais.categorias[2]}
       />
-    </>
+    </> 
   );
 }
 
