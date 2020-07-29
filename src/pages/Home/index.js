@@ -1,12 +1,13 @@
 import React from 'react';
-import Header from './components/Header'
-import dadosIniciais from './data/dados_iniciais.json'
-import BannerMain from './components/BannerMain'
-import Carousel from './components/Carousel'
+import Header from '../../components/Header'
+import dadosIniciais from '../../data/dados_iniciais.json'
+import BannerMain from '../../components/BannerMain'
+import Carousel from '../../components/Carousel'
+import PageDefault from '../../components/PageDefault';
 
-function App() {
+function Home() {
   return (
-    <>
+    <PageDefault>
       <Header />
 
       <BannerMain 
@@ -29,8 +30,10 @@ function App() {
         ignoreFirstVideo
         category={dadosIniciais.categorias[2]}
       />
-    </> 
+
+      
+    </PageDefault> 
   );
 }
 
-export default App;
+export default Home;
