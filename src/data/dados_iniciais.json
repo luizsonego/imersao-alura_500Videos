@@ -1,46 +1,38 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "500 Milhas",
+      "link": "https://www.500milhas.com.br",
+      "cor": "#DB1A28",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal 500 Milhas",
+        "url": "https://www.500milhas.com.br"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Ford Mustang 45 ANOS 500 Milhas",
+          "url": "https://www.youtube.com/watch?v=ss9keR0OKog&t"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "DESPEDIDA",
+          "url": "https://www.youtube.com/watch?v=l-aShURAMfY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Clipe - Dia Nacional do Fusca Maringá 2018",
+          "url": "https://www.youtube.com/watch?v=5kyfA8Vfpjc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "3º Edição Baixos Japurá - Pr - Só Carro de revista",
+          "url": "https://www.youtube.com/watch?v=CTQh9hIjQn8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Intro 500 Milhas Racing",
+          "url": "https://www.youtube.com/watch?v=FBCnrZzMPUY"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Nova MT03 2016/2017-Tocada, conforto, estabilidade e consumo / 2017",
+          "url": "https://www.youtube.com/watch?v=Np2Z68qro6Y"
+        }       
       ]
     },
     {

@@ -12,7 +12,7 @@ function Menu(){
         <img src={logo} alt='logo' className="Logo"/>
       </Link>
 
-      <Button as={Link} to="/cadastro/video">Novo Video</Button>
+      {/* <Button as={Link} to="/cadastro/video">Novo Video</Button> */}
       
     </nav>
   )
