@@ -1,17 +1,14 @@
-import React from "react";
+import React from 'react';
+import propTypes from 'prop-types';
 
-import Menu from "../../components/Header";
-import Footer from "../../components/Footer";
-
-import styled from "styled-components";
+import styled from 'styled-components';
+import Menu from '../Header';
+import Footer from '../Footer';
 
 const Main = styled.main`
   background-color: var(--black);
   color: var(--white);
   flex: 1;
-  /* padding-top: 50px; */
-  /* padding-left: 5%;
-  padding-right: 5%; */
 `;
 
 function PageDefault({ children }) {
@@ -23,5 +20,13 @@ function PageDefault({ children }) {
     </>
   );
 }
+
+PageDefault.defaultProps = {
+  children: '',
+};
+
+PageDefault.propTypes = {
+  children: propTypes.string,
+};
 
 export default PageDefault;
